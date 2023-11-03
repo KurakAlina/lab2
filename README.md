@@ -75,6 +75,7 @@ for /l %%N in (1, 1, !file_count!) do (
     echo.
 )
 ![image](https://github.com/KurakAlina/lab2/assets/148537804/7d9b1beb-e078-4fdb-9991-92ad149f2645)
-![Uploading image.jpeg…]()
+![image](https://github.com/KurakAlina/lab2/assets/148537804/42fb9956-5138-4dc7-9815-52a8f69927bf)
+
 
 :end
