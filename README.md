@@ -32,6 +32,7 @@ REM Запрос типа файла, если не задан второй па
 if !query_file_type!==true (
     set /p "file_type=Введите тип файла (text, prog или all): "
 )
+![image](https://github.com/KurakAlina/lab2/assets/148537804/35c1780a-d768-425f-b9f3-efa64147fe92)
 
 REM Проверка значения типа файла
 if "%file_type%"=="text" (
@@ -73,5 +74,7 @@ for /l %%N in (1, 1, !file_count!) do (
     )
     echo.
 )
+![image](https://github.com/KurakAlina/lab2/assets/148537804/7d9b1beb-e078-4fdb-9991-92ad149f2645)
+![Uploading image.jpeg…]()
 
 :end
